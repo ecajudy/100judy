@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_gesture_event" id="f^H=-Eu$-8X)j*}yh5X4" x="0" y="0"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="basic_show_icon" id="m`V%{(c+y64Ofmj=JP58"><field name="i">IconNames.Heart</field></block></statement></block></xml>
